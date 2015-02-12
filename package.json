@@ -27,7 +27,7 @@
     "thunkify": "^2.1.2",
     "unyield": "0.0.1",
     "ware": "^1.2.0",
-    "generator-foreach": "^0.1.0",
+    "generator-foreach": "^0.1.0"
   },
   "devDependencies": {
     "assert-dir-equal": "~1.0.1",
